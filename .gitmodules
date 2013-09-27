@@ -1,0 +1,3 @@
+[submodule "mezzanine-events"]
+	path = mezzanine-events
+	url = https://github.com/llovett/mezzanine-events.git
