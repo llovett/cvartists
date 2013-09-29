@@ -1,5 +1,5 @@
 Django==1.5.4
-Mezzanine==1.4.14
+-e git+https://github.com/llovett/mezzanine.git@71d6ee13e170911b5132809a1d718c636dc2ea03#egg=Mezzanine-dev
 Pillow==2.1.0
 South==0.8.2
 argparse==1.2.1
