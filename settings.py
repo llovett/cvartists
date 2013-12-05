@@ -81,6 +81,8 @@ PAGE_MENU_TEMPLATES = (
 # INSTALLED_APPS setting.
 USE_SOUTH = True
 
+# Use HD maps
+MZEVENTS_HIDPI_STATIC_MAPS = True
 
 ########################
 # MAIN DJANGO SETTINGS #
